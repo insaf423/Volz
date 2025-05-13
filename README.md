@@ -33,7 +33,7 @@ Volz is a modern flight booking platform built with Next.js, TypeScript, and Tai
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/volz.git
+git clone https://github.com/insaf423/volz.git
 cd volz
 ```
 
